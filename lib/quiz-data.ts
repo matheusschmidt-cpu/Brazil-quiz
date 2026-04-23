@@ -176,9 +176,9 @@ export const allQuestions: Question[] = [
   },
   {
     id: 24,
-    question: "Which shape appears in the middle of Brazil's flag?",
-    options: ["Square", "Circle", "Diamond", "Triangle"],
-    correctAnswer: "Diamond",
+    question: "Which of the following is NOT a fruit native to Brazil?",
+    options: ["Açaí", "Goiaba", "Maracujá", "Durian"],
+    correctAnswer: "Durian",
   },
   {
     id: 25,
